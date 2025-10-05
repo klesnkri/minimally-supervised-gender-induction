@@ -1,0 +1,13 @@
+{
+    "corpus_path": "data/ud-treebanks-v2.14/UD_Czech-PDT/cs_pdt-ud-train.conllu",
+    "num_seeds": 15,
+    "context_type": "right",
+    "context_word_form": "word",
+    "context_statistics_type": "type",
+    "morpho_statistics_type": "token",
+    "default_gender": "F",
+    "non_noun_to_noun_ratio_threshold": 1,
+    "gender_prob_threshold": 0.6,
+    "alpha": 0.2,
+    "beta": 0.99
+}
